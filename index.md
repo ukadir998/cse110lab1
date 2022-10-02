@@ -15,21 +15,21 @@ My favorite news site is [BBC](https://www.bbc.com/)
 ![This is my schedule](./pics/schedule.jpeg)
 ![This is a pic at santino's show](./pics/santinoshow.png)
 
-My favorite soccer players:
+### My favorite soccer players:
 1. Lionel Messi
 2. Cristiano Ronaldo
 3. Maradona
 4. Zidane
 5. Dani Alves
 
-My favorite musical acts:
+### My favorite musical acts:
 - Led Zeppelin
 - Greta Van Fleet
 - Beatles
 - Jimi Hendrix
 - Kendrick Lamar
 
-My todo list:
+### My todo list:
 - [x] Finish this lab
 - [ ] Watch lectures for CSE132A
 - [ ] Finish CSE107 hw
