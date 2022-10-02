@@ -22,5 +22,11 @@ My favorite soccer players:
 4. Zidane
 5. Dani Alves
 
+My favorite musical acts:
+-Led Zeppelin
+-Greta Van Fleet
+-Beatles
+-Jimi Hendrix
+-Kendrick Lamar
 
 [Contributors for this project](docs/CONTRIBUTING.md)
