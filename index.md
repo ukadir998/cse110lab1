@@ -7,6 +7,10 @@ I used `git status` to check all my changes, staged, and commited.
 My favorite news site is [BBC](https://www.bbc.com/)
 
 Some pictures I took:
+
+
+
+
 ![This is an motorcyle](./pics/motorcycle.jpeg)
 ![This is my schedule](./pics/schedule.jpeg)
 ![This is a pic at santino's show](./pics/santinoshow.png)
