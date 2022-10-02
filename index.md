@@ -15,5 +15,12 @@ Some pictures I took:
 ![This is my schedule](./pics/schedule.jpeg)
 ![This is a pic at santino's show](./pics/santinoshow.png)
 
+My favorite soccer players:
+1. Lionel Messi
+2. Cristiano Ronaldo
+3. Maradona
+4. Zidane
+5. Dani Alves
 
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+
+[Contributors for this project](docs/CONTRIBUTING.md)
