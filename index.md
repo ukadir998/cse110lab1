@@ -29,4 +29,9 @@ My favorite musical acts:
 - Jimi Hendrix
 - Kendrick Lamar
 
+My todo list:
+- [x] Finish this lab
+- [ ] Watch lectures for CSE132A
+- [ ] Finish CSE107 hw
+
 [Contributors for this project](docs/CONTRIBUTING.md)
